@@ -88,7 +88,7 @@ Open a Pull Request
 
 Contact
 Your Name - Praveen Tomar
-
+ 
 Project Link: https://github.com/your-username/weather-app
 
 Thank you for checking out the Weather App! Happy coding!
