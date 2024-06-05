@@ -1,0 +1,17 @@
+.InfoBox {
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.InfoBox .card {
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+}
+
+.InfoBox .cardContent {
+    border: none;
+}
